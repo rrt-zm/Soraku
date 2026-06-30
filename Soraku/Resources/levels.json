@@ -1,0 +1,11416 @@
+{
+ "levels": [
+  {
+   "id": "L000",
+   "chapterId": "C0",
+   "name": "First 1",
+   "indexInChapter": 0,
+   "baseShape": "triangle",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.15
+    },
+    {
+     "id": "n1",
+     "x": 0.85,
+     "y": 0.82
+    },
+    {
+     "id": "n2",
+     "x": 0.15,
+     "y": 0.82
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.54,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 8
+  },
+  {
+   "id": "L001",
+   "chapterId": "C0",
+   "name": "First 2",
+   "indexInChapter": 1,
+   "baseShape": "square",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.8
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.8
+    },
+    {
+     "id": "n3",
+     "x": 0.2,
+     "y": 0.2
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.54,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 8
+  },
+  {
+   "id": "L002",
+   "chapterId": "C0",
+   "name": "First 3",
+   "indexInChapter": 2,
+   "baseShape": "diamond",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.88
+    },
+    {
+     "id": "n1",
+     "x": 0.12,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.12
+    },
+    {
+     "id": "n3",
+     "x": 0.88,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.54,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 8
+  },
+  {
+   "id": "L003",
+   "chapterId": "C0",
+   "name": "First 4",
+   "indexInChapter": 3,
+   "baseShape": "zigzag",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.25,
+     "y": 0.85
+    },
+    {
+     "id": "n1",
+     "x": 0.25,
+     "y": 0.15
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.85
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.15
+    },
+    {
+     "id": "n4",
+     "x": 0.75,
+     "y": 0.85
+    },
+    {
+     "id": "n5",
+     "x": 0.75,
+     "y": 0.15
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.54,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 8
+  },
+  {
+   "id": "L004",
+   "chapterId": "C0",
+   "name": "First 5",
+   "indexInChapter": 4,
+   "baseShape": "leaf",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.12
+    },
+    {
+     "id": "n1",
+     "x": 0.78,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.88
+    },
+    {
+     "id": "n3",
+     "x": 0.22,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.54,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 8
+  },
+  {
+   "id": "L005",
+   "chapterId": "C0",
+   "name": "First 6",
+   "indexInChapter": 5,
+   "baseShape": "arrow",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.8
+    },
+    {
+     "id": "n2",
+     "x": 0.75,
+     "y": 0.55
+    },
+    {
+     "id": "n3",
+     "x": 0.25,
+     "y": 0.55
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.48,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 8
+  },
+  {
+   "id": "L006",
+   "chapterId": "C0",
+   "name": "First 7",
+   "indexInChapter": 6,
+   "baseShape": "mountain",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.88,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.68,
+     "y": 0.6
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.4
+    },
+    {
+     "id": "n3",
+     "x": 0.32,
+     "y": 0.75
+    },
+    {
+     "id": "n4",
+     "x": 0.12,
+     "y": 0.2
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.54,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 8
+  },
+  {
+   "id": "L007",
+   "chapterId": "C0",
+   "name": "First 8",
+   "indexInChapter": 7,
+   "baseShape": "wave",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n1",
+     "x": 0.3,
+     "y": 0.7
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.3,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n5",
+     "x": 0.7,
+     "y": 0.7
+    },
+    {
+     "id": "n6",
+     "x": 0.7,
+     "y": 0.3
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n5",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n6",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.54,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 8
+  },
+  {
+   "id": "L008",
+   "chapterId": "C0",
+   "name": "First 9",
+   "indexInChapter": 8,
+   "baseShape": "infinity",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.18,
+     "y": 0.3
+    },
+    {
+     "id": "n2",
+     "x": 0.18,
+     "y": 0.7
+    },
+    {
+     "id": "n3",
+     "x": 0.82,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.82,
+     "y": 0.7
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n4",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.54,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 8
+  },
+  {
+   "id": "L009",
+   "chapterId": "C0",
+   "name": "First 10",
+   "indexInChapter": 9,
+   "baseShape": "bowtie",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.8
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.2
+    },
+    {
+     "id": "n3",
+     "x": 0.2,
+     "y": 0.8
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n3",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.5,
+     "y": 0.5
+    }
+   ],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.54,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 8
+  },
+  {
+   "id": "L010",
+   "chapterId": "C0",
+   "name": "First 11",
+   "indexInChapter": 10,
+   "baseShape": "envelope",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.25
+    },
+    {
+     "id": "n1",
+     "x": 0.2,
+     "y": 0.25
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.65
+    },
+    {
+     "id": "n3",
+     "x": 0.8,
+     "y": 0.65
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.88
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.5,
+     "y": 0.45
+    }
+   ],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.54,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 8
+  },
+  {
+   "id": "L011",
+   "chapterId": "C0",
+   "name": "First 12",
+   "indexInChapter": 11,
+   "baseShape": "crossdiamond",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.12,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.12
+    },
+    {
+     "id": "n2",
+     "x": 0.88,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.88
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n4",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.48,
+    "tolerance": 0.5
+   },
+   "mechanic": "none",
+   "starThresholds": {
+    "calmBreathRatio": 0.6,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 8
+  },
+  {
+   "id": "L012",
+   "chapterId": "C1",
+   "name": "Crossing 1",
+   "indexInChapter": 0,
+   "baseShape": "bowtie",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.8
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.2
+    },
+    {
+     "id": "n3",
+     "x": 0.2,
+     "y": 0.8
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n3",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.5,
+     "y": 0.5
+    }
+   ],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.52,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 10
+  },
+  {
+   "id": "L013",
+   "chapterId": "C1",
+   "name": "Crossing 2",
+   "indexInChapter": 1,
+   "baseShape": "bridgecross",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.85,
+     "y": 0.65
+    },
+    {
+     "id": "n1",
+     "x": 0.15,
+     "y": 0.65
+    },
+    {
+     "id": "n2",
+     "x": 0.85,
+     "y": 0.35
+    },
+    {
+     "id": "n3",
+     "x": 0.15,
+     "y": 0.35
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.85
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.15
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.5,
+     "y": 0.5
+    }
+   ],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.4,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 10
+  },
+  {
+   "id": "L014",
+   "chapterId": "C1",
+   "name": "Crossing 3",
+   "indexInChapter": 2,
+   "baseShape": "pentagram",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.3764,
+     "y": 0.1196
+    },
+    {
+     "id": "n2",
+     "x": 0.8236,
+     "y": 0.2649
+    },
+    {
+     "id": "n3",
+     "x": 0.8236,
+     "y": 0.7351
+    },
+    {
+     "id": "n4",
+     "x": 0.3764,
+     "y": 0.8804
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.3764,
+     "y": 0.4102
+    },
+    {
+     "x": 0.5472,
+     "y": 0.3547
+    },
+    {
+     "x": 0.6528,
+     "y": 0.5
+    },
+    {
+     "x": 0.5472,
+     "y": 0.6453
+    },
+    {
+     "x": 0.3764,
+     "y": 0.5898
+    }
+   ],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.52,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 10
+  },
+  {
+   "id": "L015",
+   "chapterId": "C1",
+   "name": "Crossing 4",
+   "indexInChapter": 3,
+   "baseShape": "star4",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n2",
+     "x": 0.9,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n4",
+     "x": 0.1,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.46,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 10
+  },
+  {
+   "id": "L016",
+   "chapterId": "C1",
+   "name": "Crossing 5",
+   "indexInChapter": 4,
+   "baseShape": "crossdiamond",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.88,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.88
+    },
+    {
+     "id": "n2",
+     "x": 0.12,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.12
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n4",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.46,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 10
+  },
+  {
+   "id": "L017",
+   "chapterId": "C1",
+   "name": "Crossing 6",
+   "indexInChapter": 5,
+   "baseShape": "window",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.8
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.8
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.8
+    },
+    {
+     "id": "n3",
+     "x": 0.8,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.2,
+     "y": 0.5
+    },
+    {
+     "id": "n6",
+     "x": 0.8,
+     "y": 0.2
+    },
+    {
+     "id": "n7",
+     "x": 0.5,
+     "y": 0.2
+    },
+    {
+     "id": "n8",
+     "x": 0.2,
+     "y": 0.2
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n1",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n4",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n2",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n5",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.46,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 10
+  },
+  {
+   "id": "L018",
+   "chapterId": "C1",
+   "name": "Crossing 7",
+   "indexInChapter": 6,
+   "baseShape": "key",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.18,
+     "y": 0.65
+    },
+    {
+     "id": "n1",
+     "x": 0.18,
+     "y": 0.35
+    },
+    {
+     "id": "n2",
+     "x": 0.45,
+     "y": 0.35
+    },
+    {
+     "id": "n3",
+     "x": 0.45,
+     "y": 0.65
+    },
+    {
+     "id": "n4",
+     "x": 0.45,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.85,
+     "y": 0.5
+    },
+    {
+     "id": "n6",
+     "x": 0.72,
+     "y": 0.38
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n5",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.52,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 10
+  },
+  {
+   "id": "L019",
+   "chapterId": "C1",
+   "name": "Crossing 8",
+   "indexInChapter": 7,
+   "baseShape": "ladder",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.3,
+     "y": 0.15
+    },
+    {
+     "id": "n1",
+     "x": 0.7,
+     "y": 0.15
+    },
+    {
+     "id": "n2",
+     "x": 0.3,
+     "y": 0.85
+    },
+    {
+     "id": "n3",
+     "x": 0.7,
+     "y": 0.85
+    },
+    {
+     "id": "n4",
+     "x": 0.3,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.7,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n4",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n5",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.52,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 10
+  },
+  {
+   "id": "L020",
+   "chapterId": "C1",
+   "name": "Crossing 9",
+   "indexInChapter": 8,
+   "baseShape": "doublebox",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.85,
+     "y": 0.3
+    },
+    {
+     "id": "n1",
+     "x": 0.85,
+     "y": 0.7
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.3
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.7
+    },
+    {
+     "id": "n4",
+     "x": 0.15,
+     "y": 0.3
+    },
+    {
+     "id": "n5",
+     "x": 0.15,
+     "y": 0.7
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.52,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 10
+  },
+  {
+   "id": "L021",
+   "chapterId": "C1",
+   "name": "Crossing 10",
+   "indexInChapter": 9,
+   "baseShape": "wheel3",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n2",
+     "x": 0.1536,
+     "y": 0.3
+    },
+    {
+     "id": "n3",
+     "x": 0.8464,
+     "y": 0.3
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.46,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 10
+  },
+  {
+   "id": "L022",
+   "chapterId": "C1",
+   "name": "Crossing 11",
+   "indexInChapter": 10,
+   "baseShape": "comb",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.62,
+     "y": 0.85
+    },
+    {
+     "id": "n1",
+     "x": 0.62,
+     "y": 0.62
+    },
+    {
+     "id": "n2",
+     "x": 0.62,
+     "y": 0.38
+    },
+    {
+     "id": "n3",
+     "x": 0.62,
+     "y": 0.15
+    },
+    {
+     "id": "n4",
+     "x": 0.2,
+     "y": 0.85
+    },
+    {
+     "id": "n5",
+     "x": 0.2,
+     "y": 0.62
+    },
+    {
+     "id": "n6",
+     "x": 0.2,
+     "y": 0.38
+    },
+    {
+     "id": "n7",
+     "x": 0.2,
+     "y": 0.15
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.4,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 10
+  },
+  {
+   "id": "L023",
+   "chapterId": "C1",
+   "name": "Crossing 12",
+   "indexInChapter": 11,
+   "baseShape": "wave",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.3,
+     "y": 0.3
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.7,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.9,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.3,
+     "y": 0.7
+    },
+    {
+     "id": "n6",
+     "x": 0.7,
+     "y": 0.7
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n5",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n6",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.52,
+    "tolerance": 0.48
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.62,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 10
+  },
+  {
+   "id": "L024",
+   "chapterId": "C2",
+   "name": "Two 1",
+   "indexInChapter": 0,
+   "baseShape": "envelope",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.75
+    },
+    {
+     "id": "n1",
+     "x": 0.2,
+     "y": 0.75
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.35
+    },
+    {
+     "id": "n3",
+     "x": 0.8,
+     "y": 0.35
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.12
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n2",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.5,
+     "y": 0.55
+    }
+   ],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.5,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 12
+  },
+  {
+   "id": "L025",
+   "chapterId": "C2",
+   "name": "Two 2",
+   "indexInChapter": 1,
+   "baseShape": "window",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.2,
+     "y": 0.8
+    },
+    {
+     "id": "n1",
+     "x": 0.2,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.2
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.8
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.2
+    },
+    {
+     "id": "n6",
+     "x": 0.8,
+     "y": 0.8
+    },
+    {
+     "id": "n7",
+     "x": 0.8,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.8,
+     "y": 0.2
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n7",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n7",
+     "b": "n8",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n1",
+     "b": "n4",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n4",
+     "b": "n7",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n2",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n5",
+     "b": "n8",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 12
+  },
+  {
+   "id": "L026",
+   "chapterId": "C2",
+   "name": "Two 3",
+   "indexInChapter": 2,
+   "baseShape": "lantern",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.35,
+     "y": 0.18
+    },
+    {
+     "id": "n1",
+     "x": 0.65,
+     "y": 0.18
+    },
+    {
+     "id": "n2",
+     "x": 0.3,
+     "y": 0.4
+    },
+    {
+     "id": "n3",
+     "x": 0.7,
+     "y": 0.4
+    },
+    {
+     "id": "n4",
+     "x": 0.3,
+     "y": 0.7
+    },
+    {
+     "id": "n5",
+     "x": 0.7,
+     "y": 0.7
+    },
+    {
+     "id": "n6",
+     "x": 0.4,
+     "y": 0.85
+    },
+    {
+     "id": "n7",
+     "x": 0.6,
+     "y": 0.85
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n7",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 12
+  },
+  {
+   "id": "L027",
+   "chapterId": "C2",
+   "name": "Two 4",
+   "indexInChapter": 3,
+   "baseShape": "torii",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.3,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.3,
+     "y": 0.8
+    },
+    {
+     "id": "n2",
+     "x": 0.3,
+     "y": 0.32
+    },
+    {
+     "id": "n3",
+     "x": 0.3,
+     "y": 0.68
+    },
+    {
+     "id": "n4",
+     "x": 0.85,
+     "y": 0.32
+    },
+    {
+     "id": "n5",
+     "x": 0.85,
+     "y": 0.68
+    },
+    {
+     "id": "n6",
+     "x": 0.48,
+     "y": 0.32
+    },
+    {
+     "id": "n7",
+     "x": 0.48,
+     "y": 0.68
+    },
+    {
+     "id": "n8",
+     "x": 0.48,
+     "y": 0.26
+    },
+    {
+     "id": "n9",
+     "x": 0.48,
+     "y": 0.74
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n1",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n4",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n7",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n7",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n8",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n6",
+     "b": "n7",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n7",
+     "b": "n9",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 4,
+   "breath": {
+    "tempo": 1.32,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 4
+   },
+   "reward": 12
+  },
+  {
+   "id": "L028",
+   "chapterId": "C2",
+   "name": "Two 5",
+   "indexInChapter": 4,
+   "baseShape": "key",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.65,
+     "y": 0.82
+    },
+    {
+     "id": "n1",
+     "x": 0.35,
+     "y": 0.82
+    },
+    {
+     "id": "n2",
+     "x": 0.35,
+     "y": 0.55
+    },
+    {
+     "id": "n3",
+     "x": 0.65,
+     "y": 0.55
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.55
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.15
+    },
+    {
+     "id": "n6",
+     "x": 0.38,
+     "y": 0.28
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n4",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n3",
+     "b": "n0",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n4",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n5",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.5,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 12
+  },
+  {
+   "id": "L029",
+   "chapterId": "C2",
+   "name": "Two 6",
+   "indexInChapter": 5,
+   "baseShape": "doublebox",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.15,
+     "y": 0.7
+    },
+    {
+     "id": "n1",
+     "x": 0.15,
+     "y": 0.3
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.7
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.85,
+     "y": 0.7
+    },
+    {
+     "id": "n5",
+     "x": 0.85,
+     "y": 0.3
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.5,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 12
+  },
+  {
+   "id": "L030",
+   "chapterId": "C2",
+   "name": "Two 7",
+   "indexInChapter": 6,
+   "baseShape": "ladder",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.3,
+     "y": 0.85
+    },
+    {
+     "id": "n1",
+     "x": 0.7,
+     "y": 0.85
+    },
+    {
+     "id": "n2",
+     "x": 0.3,
+     "y": 0.15
+    },
+    {
+     "id": "n3",
+     "x": 0.7,
+     "y": 0.15
+    },
+    {
+     "id": "n4",
+     "x": 0.3,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.7,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n4",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n5",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n1",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n4",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.5,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 12
+  },
+  {
+   "id": "L031",
+   "chapterId": "C2",
+   "name": "Two 8",
+   "indexInChapter": 7,
+   "baseShape": "comb",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.38,
+     "y": 0.15
+    },
+    {
+     "id": "n1",
+     "x": 0.38,
+     "y": 0.38
+    },
+    {
+     "id": "n2",
+     "x": 0.38,
+     "y": 0.62
+    },
+    {
+     "id": "n3",
+     "x": 0.38,
+     "y": 0.85
+    },
+    {
+     "id": "n4",
+     "x": 0.8,
+     "y": 0.15
+    },
+    {
+     "id": "n5",
+     "x": 0.8,
+     "y": 0.38
+    },
+    {
+     "id": "n6",
+     "x": 0.8,
+     "y": 0.62
+    },
+    {
+     "id": "n7",
+     "x": 0.8,
+     "y": 0.85
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n5",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n6",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.38,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 12
+  },
+  {
+   "id": "L032",
+   "chapterId": "C2",
+   "name": "Two 9",
+   "indexInChapter": 8,
+   "baseShape": "fan",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.15
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.75
+    },
+    {
+     "id": "n2",
+     "x": 0.64,
+     "y": 0.82
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.85
+    },
+    {
+     "id": "n4",
+     "x": 0.36,
+     "y": 0.82
+    },
+    {
+     "id": "n5",
+     "x": 0.2,
+     "y": 0.75
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n2",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n4",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 12
+  },
+  {
+   "id": "L033",
+   "chapterId": "C2",
+   "name": "Two 10",
+   "indexInChapter": 9,
+   "baseShape": "trident",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.55,
+     "y": 0.75
+    },
+    {
+     "id": "n1",
+     "x": 0.55,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.55,
+     "y": 0.25
+    },
+    {
+     "id": "n3",
+     "x": 0.82,
+     "y": 0.75
+    },
+    {
+     "id": "n4",
+     "x": 0.85,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.82,
+     "y": 0.25
+    },
+    {
+     "id": "n6",
+     "x": 0.15,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n1",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n5",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n6",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 12
+  },
+  {
+   "id": "L034",
+   "chapterId": "C2",
+   "name": "Two 11",
+   "indexInChapter": 10,
+   "baseShape": "blossom",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.18
+    },
+    {
+     "id": "n2",
+     "x": 0.68,
+     "y": 0.32
+    },
+    {
+     "id": "n3",
+     "x": 0.82,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.68,
+     "y": 0.68
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.82
+    },
+    {
+     "id": "n6",
+     "x": 0.32,
+     "y": 0.68
+    },
+    {
+     "id": "n7",
+     "x": 0.18,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.32,
+     "y": 0.32
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n2",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n6",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n8",
+     "b": "n1",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 12
+  },
+  {
+   "id": "L035",
+   "chapterId": "C2",
+   "name": "Two 12",
+   "indexInChapter": 11,
+   "baseShape": "wheel4",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.9,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n3",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.1
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n1",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n0",
+     "b": "n2",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.46
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.64,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 12
+  },
+  {
+   "id": "L036",
+   "chapterId": "C3",
+   "name": "Hidden 1",
+   "indexInChapter": 0,
+   "baseShape": "star4",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n3",
+     "x": 0.9,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.9
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.42,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 14
+  },
+  {
+   "id": "L037",
+   "chapterId": "C3",
+   "name": "Hidden 2",
+   "indexInChapter": 1,
+   "baseShape": "star6",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n2",
+     "x": 0.8464,
+     "y": 0.3
+    },
+    {
+     "id": "n3",
+     "x": 0.8464,
+     "y": 0.7
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n5",
+     "x": 0.1536,
+     "y": 0.7
+    },
+    {
+     "id": "n6",
+     "x": 0.1536,
+     "y": 0.3
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n0",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.36,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 14
+  },
+  {
+   "id": "L038",
+   "chapterId": "C3",
+   "name": "Hidden 3",
+   "indexInChapter": 2,
+   "baseShape": "fan",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.15,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.75,
+     "y": 0.2
+    },
+    {
+     "id": "n2",
+     "x": 0.82,
+     "y": 0.36
+    },
+    {
+     "id": "n3",
+     "x": 0.85,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.82,
+     "y": 0.64
+    },
+    {
+     "id": "n5",
+     "x": 0.75,
+     "y": 0.8
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.42,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 14
+  },
+  {
+   "id": "L039",
+   "chapterId": "C3",
+   "name": "Hidden 4",
+   "indexInChapter": 3,
+   "baseShape": "crane",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.3
+    },
+    {
+     "id": "n1",
+     "x": 0.6,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.45,
+     "y": 0.4
+    },
+    {
+     "id": "n3",
+     "x": 0.3,
+     "y": 0.6
+    },
+    {
+     "id": "n4",
+     "x": 0.2,
+     "y": 0.75
+    },
+    {
+     "id": "n5",
+     "x": 0.55,
+     "y": 0.2
+    },
+    {
+     "id": "n6",
+     "x": 0.4,
+     "y": 0.2
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.36,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 14
+  },
+  {
+   "id": "L040",
+   "chapterId": "C3",
+   "name": "Hidden 5",
+   "indexInChapter": 4,
+   "baseShape": "blossom",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.18,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.32,
+     "y": 0.32
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.18
+    },
+    {
+     "id": "n4",
+     "x": 0.68,
+     "y": 0.32
+    },
+    {
+     "id": "n5",
+     "x": 0.82,
+     "y": 0.5
+    },
+    {
+     "id": "n6",
+     "x": 0.68,
+     "y": 0.68
+    },
+    {
+     "id": "n7",
+     "x": 0.5,
+     "y": 0.82
+    },
+    {
+     "id": "n8",
+     "x": 0.32,
+     "y": 0.68
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n8",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.42,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 14
+  },
+  {
+   "id": "L041",
+   "chapterId": "C3",
+   "name": "Hidden 6",
+   "indexInChapter": 5,
+   "baseShape": "wheel4",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n2",
+     "x": 0.9,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n4",
+     "x": 0.1,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.42,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 14
+  },
+  {
+   "id": "L042",
+   "chapterId": "C3",
+   "name": "Hidden 7",
+   "indexInChapter": 6,
+   "baseShape": "lantern",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.82,
+     "y": 0.35
+    },
+    {
+     "id": "n1",
+     "x": 0.82,
+     "y": 0.65
+    },
+    {
+     "id": "n2",
+     "x": 0.6,
+     "y": 0.3
+    },
+    {
+     "id": "n3",
+     "x": 0.6,
+     "y": 0.7
+    },
+    {
+     "id": "n4",
+     "x": 0.3,
+     "y": 0.3
+    },
+    {
+     "id": "n5",
+     "x": 0.3,
+     "y": 0.7
+    },
+    {
+     "id": "n6",
+     "x": 0.15,
+     "y": 0.4
+    },
+    {
+     "id": "n7",
+     "x": 0.15,
+     "y": 0.6
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.42,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 14
+  },
+  {
+   "id": "L043",
+   "chapterId": "C3",
+   "name": "Hidden 8",
+   "indexInChapter": 7,
+   "baseShape": "trident",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.75,
+     "y": 0.55
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.55
+    },
+    {
+     "id": "n2",
+     "x": 0.25,
+     "y": 0.55
+    },
+    {
+     "id": "n3",
+     "x": 0.75,
+     "y": 0.82
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.85
+    },
+    {
+     "id": "n5",
+     "x": 0.25,
+     "y": 0.82
+    },
+    {
+     "id": "n6",
+     "x": 0.5,
+     "y": 0.15
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n1",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.42,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 14
+  },
+  {
+   "id": "L044",
+   "chapterId": "C3",
+   "name": "Hidden 9",
+   "indexInChapter": 8,
+   "baseShape": "pentagram",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.3764,
+     "y": 0.1196
+    },
+    {
+     "id": "n2",
+     "x": 0.8236,
+     "y": 0.2649
+    },
+    {
+     "id": "n3",
+     "x": 0.8236,
+     "y": 0.7351
+    },
+    {
+     "id": "n4",
+     "x": 0.3764,
+     "y": 0.8804
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.3764,
+     "y": 0.4102
+    },
+    {
+     "x": 0.5472,
+     "y": 0.3547
+    },
+    {
+     "x": 0.6528,
+     "y": 0.5
+    },
+    {
+     "x": 0.5472,
+     "y": 0.6453
+    },
+    {
+     "x": 0.3764,
+     "y": 0.5898
+    }
+   ],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.48,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 14
+  },
+  {
+   "id": "L045",
+   "chapterId": "C3",
+   "name": "Hidden 10",
+   "indexInChapter": 9,
+   "baseShape": "mountain",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.12,
+     "y": 0.8
+    },
+    {
+     "id": "n1",
+     "x": 0.32,
+     "y": 0.4
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.6
+    },
+    {
+     "id": "n3",
+     "x": 0.68,
+     "y": 0.25
+    },
+    {
+     "id": "n4",
+     "x": 0.88,
+     "y": 0.8
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.48,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 14
+  },
+  {
+   "id": "L046",
+   "chapterId": "C3",
+   "name": "Hidden 11",
+   "indexInChapter": 10,
+   "baseShape": "wave",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n1",
+     "x": 0.7,
+     "y": 0.3
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.7,
+     "y": 0.7
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n5",
+     "x": 0.3,
+     "y": 0.3
+    },
+    {
+     "id": "n6",
+     "x": 0.3,
+     "y": 0.7
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n5",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n6",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.48,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 14
+  },
+  {
+   "id": "L047",
+   "chapterId": "C3",
+   "name": "Hidden 12",
+   "indexInChapter": 11,
+   "baseShape": "window",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.8
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.8
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.8
+    },
+    {
+     "id": "n3",
+     "x": 0.8,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.2,
+     "y": 0.5
+    },
+    {
+     "id": "n6",
+     "x": 0.8,
+     "y": 0.2
+    },
+    {
+     "id": "n7",
+     "x": 0.5,
+     "y": 0.2
+    },
+    {
+     "id": "n8",
+     "x": 0.2,
+     "y": 0.2
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n1",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n4",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n2",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n5",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": true,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.42,
+    "tolerance": 0.44
+   },
+   "mechanic": "tilt",
+   "starThresholds": {
+    "calmBreathRatio": 0.66,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 14
+  },
+  {
+   "id": "L048",
+   "chapterId": "C4",
+   "name": "Wet 1",
+   "indexInChapter": 0,
+   "baseShape": "blossom",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.18
+    },
+    {
+     "id": "n2",
+     "x": 0.68,
+     "y": 0.32
+    },
+    {
+     "id": "n3",
+     "x": 0.82,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.68,
+     "y": 0.68
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.82
+    },
+    {
+     "id": "n6",
+     "x": 0.32,
+     "y": 0.68
+    },
+    {
+     "id": "n7",
+     "x": 0.18,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.32,
+     "y": 0.32
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s10",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s11",
+     "a": "n8",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.4,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 16
+  },
+  {
+   "id": "L049",
+   "chapterId": "C4",
+   "name": "Wet 2",
+   "indexInChapter": 1,
+   "baseShape": "wheel4",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.9,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n3",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.1
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s7",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.4,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 16
+  },
+  {
+   "id": "L050",
+   "chapterId": "C4",
+   "name": "Wet 3",
+   "indexInChapter": 2,
+   "baseShape": "star8",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n2",
+     "x": 0.2172,
+     "y": 0.7828
+    },
+    {
+     "id": "n3",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.2172,
+     "y": 0.2172
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n6",
+     "x": 0.7828,
+     "y": 0.2172
+    },
+    {
+     "id": "n7",
+     "x": 0.9,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.7828,
+     "y": 0.7828
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n0",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s7",
+     "a": "n0",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 4,
+   "breath": {
+    "tempo": 1.28,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 4
+   },
+   "reward": 16
+  },
+  {
+   "id": "L051",
+   "chapterId": "C4",
+   "name": "Wet 4",
+   "indexInChapter": 3,
+   "baseShape": "window",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.2,
+     "y": 0.8
+    },
+    {
+     "id": "n1",
+     "x": 0.2,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.2
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.8
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.2
+    },
+    {
+     "id": "n6",
+     "x": 0.8,
+     "y": 0.8
+    },
+    {
+     "id": "n7",
+     "x": 0.8,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.8,
+     "y": 0.2
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s8",
+     "a": "n1",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s9",
+     "a": "n4",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s10",
+     "a": "n2",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s11",
+     "a": "n5",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.4,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 16
+  },
+  {
+   "id": "L052",
+   "chapterId": "C4",
+   "name": "Wet 5",
+   "indexInChapter": 4,
+   "baseShape": "lantern",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.35,
+     "y": 0.18
+    },
+    {
+     "id": "n1",
+     "x": 0.65,
+     "y": 0.18
+    },
+    {
+     "id": "n2",
+     "x": 0.3,
+     "y": 0.4
+    },
+    {
+     "id": "n3",
+     "x": 0.7,
+     "y": 0.4
+    },
+    {
+     "id": "n4",
+     "x": 0.3,
+     "y": 0.7
+    },
+    {
+     "id": "n5",
+     "x": 0.7,
+     "y": 0.7
+    },
+    {
+     "id": "n6",
+     "x": 0.4,
+     "y": 0.85
+    },
+    {
+     "id": "n7",
+     "x": 0.6,
+     "y": 0.85
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.4,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 16
+  },
+  {
+   "id": "L053",
+   "chapterId": "C4",
+   "name": "Wet 6",
+   "indexInChapter": 5,
+   "baseShape": "comb",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.38,
+     "y": 0.15
+    },
+    {
+     "id": "n1",
+     "x": 0.38,
+     "y": 0.38
+    },
+    {
+     "id": "n2",
+     "x": 0.38,
+     "y": 0.62
+    },
+    {
+     "id": "n3",
+     "x": 0.38,
+     "y": 0.85
+    },
+    {
+     "id": "n4",
+     "x": 0.8,
+     "y": 0.15
+    },
+    {
+     "id": "n5",
+     "x": 0.8,
+     "y": 0.38
+    },
+    {
+     "id": "n6",
+     "x": 0.8,
+     "y": 0.62
+    },
+    {
+     "id": "n7",
+     "x": 0.8,
+     "y": 0.85
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.34,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 16
+  },
+  {
+   "id": "L054",
+   "chapterId": "C4",
+   "name": "Wet 7",
+   "indexInChapter": 6,
+   "baseShape": "fan",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.15
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.75
+    },
+    {
+     "id": "n2",
+     "x": 0.64,
+     "y": 0.82
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.85
+    },
+    {
+     "id": "n4",
+     "x": 0.36,
+     "y": 0.82
+    },
+    {
+     "id": "n5",
+     "x": 0.2,
+     "y": 0.75
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s8",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.4,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 16
+  },
+  {
+   "id": "L055",
+   "chapterId": "C4",
+   "name": "Wet 8",
+   "indexInChapter": 7,
+   "baseShape": "doublebox",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.15,
+     "y": 0.7
+    },
+    {
+     "id": "n1",
+     "x": 0.15,
+     "y": 0.3
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.7
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.85,
+     "y": 0.7
+    },
+    {
+     "id": "n5",
+     "x": 0.85,
+     "y": 0.3
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.46,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 16
+  },
+  {
+   "id": "L056",
+   "chapterId": "C4",
+   "name": "Wet 9",
+   "indexInChapter": 8,
+   "baseShape": "torii",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.2,
+     "y": 0.3
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.3
+    },
+    {
+     "id": "n2",
+     "x": 0.32,
+     "y": 0.3
+    },
+    {
+     "id": "n3",
+     "x": 0.68,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.32,
+     "y": 0.85
+    },
+    {
+     "id": "n5",
+     "x": 0.68,
+     "y": 0.85
+    },
+    {
+     "id": "n6",
+     "x": 0.32,
+     "y": 0.48
+    },
+    {
+     "id": "n7",
+     "x": 0.68,
+     "y": 0.48
+    },
+    {
+     "id": "n8",
+     "x": 0.26,
+     "y": 0.48
+    },
+    {
+     "id": "n9",
+     "x": 0.74,
+     "y": 0.48
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n7",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s7",
+     "a": "n8",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s8",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s9",
+     "a": "n7",
+     "b": "n9",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 4,
+   "breath": {
+    "tempo": 1.28,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 4
+   },
+   "reward": 16
+  },
+  {
+   "id": "L057",
+   "chapterId": "C4",
+   "name": "Wet 10",
+   "indexInChapter": 9,
+   "baseShape": "crane",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.3,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.4
+    },
+    {
+     "id": "n2",
+     "x": 0.4,
+     "y": 0.55
+    },
+    {
+     "id": "n3",
+     "x": 0.6,
+     "y": 0.7
+    },
+    {
+     "id": "n4",
+     "x": 0.75,
+     "y": 0.8
+    },
+    {
+     "id": "n5",
+     "x": 0.2,
+     "y": 0.45
+    },
+    {
+     "id": "n6",
+     "x": 0.2,
+     "y": 0.6
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.34,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 16
+  },
+  {
+   "id": "L058",
+   "chapterId": "C4",
+   "name": "Wet 11",
+   "indexInChapter": 10,
+   "baseShape": "key",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.65,
+     "y": 0.82
+    },
+    {
+     "id": "n1",
+     "x": 0.35,
+     "y": 0.82
+    },
+    {
+     "id": "n2",
+     "x": 0.35,
+     "y": 0.55
+    },
+    {
+     "id": "n3",
+     "x": 0.65,
+     "y": 0.55
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.55
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.15
+    },
+    {
+     "id": "n6",
+     "x": 0.38,
+     "y": 0.28
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n5",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.46,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 16
+  },
+  {
+   "id": "L059",
+   "chapterId": "C4",
+   "name": "Wet 12",
+   "indexInChapter": 11,
+   "baseShape": "ladder",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.15,
+     "y": 0.7
+    },
+    {
+     "id": "n1",
+     "x": 0.15,
+     "y": 0.3
+    },
+    {
+     "id": "n2",
+     "x": 0.85,
+     "y": 0.7
+    },
+    {
+     "id": "n3",
+     "x": 0.85,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.7
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.3
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s1",
+     "a": "n4",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s3",
+     "a": "n5",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s5",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": true
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.46,
+    "tolerance": 0.42
+   },
+   "mechanic": "wetonwet",
+   "starThresholds": {
+    "calmBreathRatio": 0.68,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 16
+  },
+  {
+   "id": "L060",
+   "chapterId": "C5",
+   "name": "Mirrored 1",
+   "indexInChapter": 0,
+   "baseShape": "bowtie",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.2,
+     "y": 0.8
+    },
+    {
+     "id": "n1",
+     "x": 0.2,
+     "y": 0.2
+    },
+    {
+     "id": "n2",
+     "x": 0.8,
+     "y": 0.8
+    },
+    {
+     "id": "n3",
+     "x": 0.8,
+     "y": 0.2
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n3",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.5,
+     "y": 0.5
+    }
+   ],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 18
+  },
+  {
+   "id": "L061",
+   "chapterId": "C5",
+   "name": "Mirrored 2",
+   "indexInChapter": 1,
+   "baseShape": "leaf",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.88
+    },
+    {
+     "id": "n1",
+     "x": 0.22,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.12
+    },
+    {
+     "id": "n3",
+     "x": 0.78,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 18
+  },
+  {
+   "id": "L062",
+   "chapterId": "C5",
+   "name": "Mirrored 3",
+   "indexInChapter": 2,
+   "baseShape": "mountain",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.12
+    },
+    {
+     "id": "n1",
+     "x": 0.4,
+     "y": 0.32
+    },
+    {
+     "id": "n2",
+     "x": 0.6,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.25,
+     "y": 0.68
+    },
+    {
+     "id": "n4",
+     "x": 0.8,
+     "y": 0.88
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 18
+  },
+  {
+   "id": "L063",
+   "chapterId": "C5",
+   "name": "Mirrored 4",
+   "indexInChapter": 3,
+   "baseShape": "wave",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.3,
+     "y": 0.7
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.7,
+     "y": 0.7
+    },
+    {
+     "id": "n4",
+     "x": 0.9,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.3,
+     "y": 0.3
+    },
+    {
+     "id": "n6",
+     "x": 0.7,
+     "y": 0.3
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n5",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n6",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 18
+  },
+  {
+   "id": "L064",
+   "chapterId": "C5",
+   "name": "Mirrored 5",
+   "indexInChapter": 4,
+   "baseShape": "crane",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.3,
+     "y": 0.8
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.6
+    },
+    {
+     "id": "n2",
+     "x": 0.4,
+     "y": 0.45
+    },
+    {
+     "id": "n3",
+     "x": 0.6,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.75,
+     "y": 0.2
+    },
+    {
+     "id": "n5",
+     "x": 0.2,
+     "y": 0.55
+    },
+    {
+     "id": "n6",
+     "x": 0.2,
+     "y": 0.4
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.32,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 18
+  },
+  {
+   "id": "L065",
+   "chapterId": "C5",
+   "name": "Mirrored 6",
+   "indexInChapter": 5,
+   "baseShape": "fan",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.15
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.75
+    },
+    {
+     "id": "n2",
+     "x": 0.64,
+     "y": 0.82
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.85
+    },
+    {
+     "id": "n4",
+     "x": 0.36,
+     "y": 0.82
+    },
+    {
+     "id": "n5",
+     "x": 0.2,
+     "y": 0.75
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.38,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 18
+  },
+  {
+   "id": "L066",
+   "chapterId": "C5",
+   "name": "Mirrored 7",
+   "indexInChapter": 6,
+   "baseShape": "arrow",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.8
+    },
+    {
+     "id": "n2",
+     "x": 0.75,
+     "y": 0.55
+    },
+    {
+     "id": "n3",
+     "x": 0.25,
+     "y": 0.55
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.38,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 18
+  },
+  {
+   "id": "L067",
+   "chapterId": "C5",
+   "name": "Mirrored 8",
+   "indexInChapter": 7,
+   "baseShape": "trident",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.25,
+     "y": 0.45
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.45
+    },
+    {
+     "id": "n2",
+     "x": 0.75,
+     "y": 0.45
+    },
+    {
+     "id": "n3",
+     "x": 0.25,
+     "y": 0.18
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.15
+    },
+    {
+     "id": "n5",
+     "x": 0.75,
+     "y": 0.18
+    },
+    {
+     "id": "n6",
+     "x": 0.5,
+     "y": 0.85
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n1",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.38,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 18
+  },
+  {
+   "id": "L068",
+   "chapterId": "C5",
+   "name": "Mirrored 9",
+   "indexInChapter": 8,
+   "baseShape": "lantern",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.82,
+     "y": 0.65
+    },
+    {
+     "id": "n1",
+     "x": 0.82,
+     "y": 0.35
+    },
+    {
+     "id": "n2",
+     "x": 0.6,
+     "y": 0.7
+    },
+    {
+     "id": "n3",
+     "x": 0.6,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.3,
+     "y": 0.7
+    },
+    {
+     "id": "n5",
+     "x": 0.3,
+     "y": 0.3
+    },
+    {
+     "id": "n6",
+     "x": 0.15,
+     "y": 0.6
+    },
+    {
+     "id": "n7",
+     "x": 0.15,
+     "y": 0.4
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.38,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 18
+  },
+  {
+   "id": "L069",
+   "chapterId": "C5",
+   "name": "Mirrored 10",
+   "indexInChapter": 9,
+   "baseShape": "doublebox",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.7,
+     "y": 0.15
+    },
+    {
+     "id": "n1",
+     "x": 0.3,
+     "y": 0.15
+    },
+    {
+     "id": "n2",
+     "x": 0.7,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.3,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.7,
+     "y": 0.85
+    },
+    {
+     "id": "n5",
+     "x": 0.3,
+     "y": 0.85
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.44,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 18
+  },
+  {
+   "id": "L070",
+   "chapterId": "C5",
+   "name": "Mirrored 11",
+   "indexInChapter": 10,
+   "baseShape": "window",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.2,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.2,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.8
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.2
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.8
+    },
+    {
+     "id": "n6",
+     "x": 0.8,
+     "y": 0.2
+    },
+    {
+     "id": "n7",
+     "x": 0.8,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.8,
+     "y": 0.8
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n1",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n4",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n2",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n5",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.38,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 18
+  },
+  {
+   "id": "L071",
+   "chapterId": "C5",
+   "name": "Mirrored 12",
+   "indexInChapter": 11,
+   "baseShape": "blossom",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.18
+    },
+    {
+     "id": "n2",
+     "x": 0.68,
+     "y": 0.32
+    },
+    {
+     "id": "n3",
+     "x": 0.82,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.68,
+     "y": 0.68
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.82
+    },
+    {
+     "id": "n6",
+     "x": 0.32,
+     "y": 0.68
+    },
+    {
+     "id": "n7",
+     "x": 0.18,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.32,
+     "y": 0.32
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n8",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.38,
+    "tolerance": 0.4
+   },
+   "mechanic": "mirror",
+   "starThresholds": {
+    "calmBreathRatio": 0.7,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 18
+  },
+  {
+   "id": "L072",
+   "chapterId": "C6",
+   "name": "Mountain 1",
+   "indexInChapter": 0,
+   "baseShape": "wheel4",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n2",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n4",
+     "x": 0.9,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.36,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 20
+  },
+  {
+   "id": "L073",
+   "chapterId": "C6",
+   "name": "Mountain 2",
+   "indexInChapter": 1,
+   "baseShape": "star8",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.2172,
+     "y": 0.2172
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n4",
+     "x": 0.7828,
+     "y": 0.2172
+    },
+    {
+     "id": "n5",
+     "x": 0.9,
+     "y": 0.5
+    },
+    {
+     "id": "n6",
+     "x": 0.7828,
+     "y": 0.7828
+    },
+    {
+     "id": "n7",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n8",
+     "x": 0.2172,
+     "y": 0.7828
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n0",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n0",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 4,
+   "breath": {
+    "tempo": 1.24,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 4
+   },
+   "reward": 20
+  },
+  {
+   "id": "L074",
+   "chapterId": "C6",
+   "name": "Mountain 3",
+   "indexInChapter": 2,
+   "baseShape": "blossom",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.18
+    },
+    {
+     "id": "n2",
+     "x": 0.68,
+     "y": 0.32
+    },
+    {
+     "id": "n3",
+     "x": 0.82,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.68,
+     "y": 0.68
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.82
+    },
+    {
+     "id": "n6",
+     "x": 0.32,
+     "y": 0.68
+    },
+    {
+     "id": "n7",
+     "x": 0.18,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.32,
+     "y": 0.32
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n8",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.36,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 20
+  },
+  {
+   "id": "L075",
+   "chapterId": "C6",
+   "name": "Mountain 4",
+   "indexInChapter": 3,
+   "baseShape": "window",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.8,
+     "y": 0.8
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.2
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.8
+    },
+    {
+     "id": "n6",
+     "x": 0.2,
+     "y": 0.2
+    },
+    {
+     "id": "n7",
+     "x": 0.2,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.2,
+     "y": 0.8
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n1",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n4",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n2",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n5",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.36,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 20
+  },
+  {
+   "id": "L076",
+   "chapterId": "C6",
+   "name": "Mountain 5",
+   "indexInChapter": 4,
+   "baseShape": "pentagram",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n1",
+     "x": 0.1196,
+     "y": 0.6236
+    },
+    {
+     "id": "n2",
+     "x": 0.2649,
+     "y": 0.1764
+    },
+    {
+     "id": "n3",
+     "x": 0.7351,
+     "y": 0.1764
+    },
+    {
+     "id": "n4",
+     "x": 0.8804,
+     "y": 0.6236
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.4102,
+     "y": 0.6236
+    },
+    {
+     "x": 0.3547,
+     "y": 0.4528
+    },
+    {
+     "x": 0.5,
+     "y": 0.3472
+    },
+    {
+     "x": 0.6453,
+     "y": 0.4528
+    },
+    {
+     "x": 0.5898,
+     "y": 0.6236
+    }
+   ],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.42,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 20
+  },
+  {
+   "id": "L077",
+   "chapterId": "C6",
+   "name": "Mountain 6",
+   "indexInChapter": 5,
+   "baseShape": "lantern",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.18,
+     "y": 0.65
+    },
+    {
+     "id": "n1",
+     "x": 0.18,
+     "y": 0.35
+    },
+    {
+     "id": "n2",
+     "x": 0.4,
+     "y": 0.7
+    },
+    {
+     "id": "n3",
+     "x": 0.4,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.7,
+     "y": 0.7
+    },
+    {
+     "id": "n5",
+     "x": 0.7,
+     "y": 0.3
+    },
+    {
+     "id": "n6",
+     "x": 0.85,
+     "y": 0.6
+    },
+    {
+     "id": "n7",
+     "x": 0.85,
+     "y": 0.4
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.36,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 20
+  },
+  {
+   "id": "L078",
+   "chapterId": "C6",
+   "name": "Mountain 7",
+   "indexInChapter": 6,
+   "baseShape": "torii",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.2,
+     "y": 0.3
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.3
+    },
+    {
+     "id": "n2",
+     "x": 0.32,
+     "y": 0.3
+    },
+    {
+     "id": "n3",
+     "x": 0.68,
+     "y": 0.3
+    },
+    {
+     "id": "n4",
+     "x": 0.32,
+     "y": 0.85
+    },
+    {
+     "id": "n5",
+     "x": 0.68,
+     "y": 0.85
+    },
+    {
+     "id": "n6",
+     "x": 0.32,
+     "y": 0.48
+    },
+    {
+     "id": "n7",
+     "x": 0.68,
+     "y": 0.48
+    },
+    {
+     "id": "n8",
+     "x": 0.26,
+     "y": 0.48
+    },
+    {
+     "id": "n9",
+     "x": 0.74,
+     "y": 0.48
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n7",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n8",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n6",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n7",
+     "b": "n9",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 4,
+   "breath": {
+    "tempo": 1.24,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 4
+   },
+   "reward": 20
+  },
+  {
+   "id": "L079",
+   "chapterId": "C6",
+   "name": "Mountain 8",
+   "indexInChapter": 7,
+   "baseShape": "comb",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.38,
+     "y": 0.15
+    },
+    {
+     "id": "n1",
+     "x": 0.38,
+     "y": 0.38
+    },
+    {
+     "id": "n2",
+     "x": 0.38,
+     "y": 0.62
+    },
+    {
+     "id": "n3",
+     "x": 0.38,
+     "y": 0.85
+    },
+    {
+     "id": "n4",
+     "x": 0.8,
+     "y": 0.15
+    },
+    {
+     "id": "n5",
+     "x": 0.8,
+     "y": 0.38
+    },
+    {
+     "id": "n6",
+     "x": 0.8,
+     "y": 0.62
+    },
+    {
+     "id": "n7",
+     "x": 0.8,
+     "y": 0.85
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.3,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 20
+  },
+  {
+   "id": "L080",
+   "chapterId": "C6",
+   "name": "Mountain 9",
+   "indexInChapter": 8,
+   "baseShape": "fan",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.15
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.75
+    },
+    {
+     "id": "n2",
+     "x": 0.64,
+     "y": 0.82
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.85
+    },
+    {
+     "id": "n4",
+     "x": 0.36,
+     "y": 0.82
+    },
+    {
+     "id": "n5",
+     "x": 0.2,
+     "y": 0.75
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.36,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 20
+  },
+  {
+   "id": "L081",
+   "chapterId": "C6",
+   "name": "Mountain 10",
+   "indexInChapter": 9,
+   "baseShape": "trident",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.45,
+     "y": 0.75
+    },
+    {
+     "id": "n1",
+     "x": 0.45,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.45,
+     "y": 0.25
+    },
+    {
+     "id": "n3",
+     "x": 0.18,
+     "y": 0.75
+    },
+    {
+     "id": "n4",
+     "x": 0.15,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.18,
+     "y": 0.25
+    },
+    {
+     "id": "n6",
+     "x": 0.85,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n1",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.36,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 20
+  },
+  {
+   "id": "L082",
+   "chapterId": "C6",
+   "name": "Mountain 11",
+   "indexInChapter": 10,
+   "baseShape": "crane",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.2,
+     "y": 0.7
+    },
+    {
+     "id": "n1",
+     "x": 0.4,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.55,
+     "y": 0.6
+    },
+    {
+     "id": "n3",
+     "x": 0.7,
+     "y": 0.4
+    },
+    {
+     "id": "n4",
+     "x": 0.8,
+     "y": 0.25
+    },
+    {
+     "id": "n5",
+     "x": 0.45,
+     "y": 0.8
+    },
+    {
+     "id": "n6",
+     "x": 0.6,
+     "y": 0.8
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.3,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 20
+  },
+  {
+   "id": "L083",
+   "chapterId": "C6",
+   "name": "Mountain 12",
+   "indexInChapter": 11,
+   "baseShape": "doublebox",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.85,
+     "y": 0.3
+    },
+    {
+     "id": "n1",
+     "x": 0.85,
+     "y": 0.7
+    },
+    {
+     "id": "n2",
+     "x": 0.5,
+     "y": 0.3
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.7
+    },
+    {
+     "id": "n4",
+     "x": 0.15,
+     "y": 0.3
+    },
+    {
+     "id": "n5",
+     "x": 0.15,
+     "y": 0.7
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.42,
+    "tolerance": 0.38
+   },
+   "mechanic": "crossing",
+   "starThresholds": {
+    "calmBreathRatio": 0.72,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 20
+  },
+  {
+   "id": "L084",
+   "chapterId": "C7",
+   "name": "Master's 1",
+   "indexInChapter": 0,
+   "baseShape": "pentagram",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.3764,
+     "y": 0.1196
+    },
+    {
+     "id": "n2",
+     "x": 0.8236,
+     "y": 0.2649
+    },
+    {
+     "id": "n3",
+     "x": 0.8236,
+     "y": 0.7351
+    },
+    {
+     "id": "n4",
+     "x": 0.3764,
+     "y": 0.8804
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n4",
+     "b": "n1",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n1",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n3",
+     "b": "n0",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.3764,
+     "y": 0.4102
+    },
+    {
+     "x": 0.5472,
+     "y": 0.3547
+    },
+    {
+     "x": 0.6528,
+     "y": 0.5
+    },
+    {
+     "x": 0.5472,
+     "y": 0.6453
+    },
+    {
+     "x": 0.3764,
+     "y": 0.5898
+    }
+   ],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.4,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 22
+  },
+  {
+   "id": "L085",
+   "chapterId": "C7",
+   "name": "Master's 2",
+   "indexInChapter": 1,
+   "baseShape": "star8",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n2",
+     "x": 0.7828,
+     "y": 0.2172
+    },
+    {
+     "id": "n3",
+     "x": 0.9,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.7828,
+     "y": 0.7828
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n6",
+     "x": 0.2172,
+     "y": 0.7828
+    },
+    {
+     "id": "n7",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.2172,
+     "y": 0.2172
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n0",
+     "b": "n6",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n0",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 4,
+   "breath": {
+    "tempo": 1.22,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 4
+   },
+   "reward": 22
+  },
+  {
+   "id": "L086",
+   "chapterId": "C7",
+   "name": "Master's 3",
+   "indexInChapter": 2,
+   "baseShape": "blossom",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.82,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.68,
+     "y": 0.68
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.82
+    },
+    {
+     "id": "n4",
+     "x": 0.32,
+     "y": 0.68
+    },
+    {
+     "id": "n5",
+     "x": 0.18,
+     "y": 0.5
+    },
+    {
+     "id": "n6",
+     "x": 0.32,
+     "y": 0.32
+    },
+    {
+     "id": "n7",
+     "x": 0.5,
+     "y": 0.18
+    },
+    {
+     "id": "n8",
+     "x": 0.68,
+     "y": 0.32
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n7",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n2",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n6",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n7",
+     "b": "n8",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n8",
+     "b": "n1",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.34,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 22
+  },
+  {
+   "id": "L087",
+   "chapterId": "C7",
+   "name": "Master's 4",
+   "indexInChapter": 3,
+   "baseShape": "wheel4",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.9
+    },
+    {
+     "id": "n2",
+     "x": 0.1,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.1
+    },
+    {
+     "id": "n4",
+     "x": 0.9,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n1",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n0",
+     "b": "n2",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.34,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 22
+  },
+  {
+   "id": "L088",
+   "chapterId": "C7",
+   "name": "Master's 5",
+   "indexInChapter": 4,
+   "baseShape": "window",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.2,
+     "y": 0.8
+    },
+    {
+     "id": "n1",
+     "x": 0.2,
+     "y": 0.5
+    },
+    {
+     "id": "n2",
+     "x": 0.2,
+     "y": 0.2
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.8
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.5
+    },
+    {
+     "id": "n5",
+     "x": 0.5,
+     "y": 0.2
+    },
+    {
+     "id": "n6",
+     "x": 0.8,
+     "y": 0.8
+    },
+    {
+     "id": "n7",
+     "x": 0.8,
+     "y": 0.5
+    },
+    {
+     "id": "n8",
+     "x": 0.8,
+     "y": 0.2
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n4",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n7",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n7",
+     "b": "n8",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n0",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n1",
+     "b": "n4",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n4",
+     "b": "n7",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s10",
+     "a": "n2",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s11",
+     "a": "n5",
+     "b": "n8",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.34,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 22
+  },
+  {
+   "id": "L089",
+   "chapterId": "C7",
+   "name": "Master's 6",
+   "indexInChapter": 5,
+   "baseShape": "envelope",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.2,
+     "y": 0.75
+    },
+    {
+     "id": "n1",
+     "x": 0.8,
+     "y": 0.75
+    },
+    {
+     "id": "n2",
+     "x": 0.8,
+     "y": 0.35
+    },
+    {
+     "id": "n3",
+     "x": 0.2,
+     "y": 0.35
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.12
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n2",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n2",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [
+    {
+     "x": 0.5,
+     "y": 0.55
+    }
+   ],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.4,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 22
+  },
+  {
+   "id": "L090",
+   "chapterId": "C7",
+   "name": "Master's 7",
+   "indexInChapter": 6,
+   "baseShape": "lantern",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.82,
+     "y": 0.35
+    },
+    {
+     "id": "n1",
+     "x": 0.82,
+     "y": 0.65
+    },
+    {
+     "id": "n2",
+     "x": 0.6,
+     "y": 0.3
+    },
+    {
+     "id": "n3",
+     "x": 0.6,
+     "y": 0.7
+    },
+    {
+     "id": "n4",
+     "x": 0.3,
+     "y": 0.3
+    },
+    {
+     "id": "n5",
+     "x": 0.3,
+     "y": 0.7
+    },
+    {
+     "id": "n6",
+     "x": 0.15,
+     "y": 0.4
+    },
+    {
+     "id": "n7",
+     "x": 0.15,
+     "y": 0.6
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n5",
+     "b": "n7",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n6",
+     "b": "n7",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.34,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 22
+  },
+  {
+   "id": "L091",
+   "chapterId": "C7",
+   "name": "Master's 8",
+   "indexInChapter": 7,
+   "baseShape": "torii",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.8,
+     "y": 0.7
+    },
+    {
+     "id": "n1",
+     "x": 0.2,
+     "y": 0.7
+    },
+    {
+     "id": "n2",
+     "x": 0.68,
+     "y": 0.7
+    },
+    {
+     "id": "n3",
+     "x": 0.32,
+     "y": 0.7
+    },
+    {
+     "id": "n4",
+     "x": 0.68,
+     "y": 0.15
+    },
+    {
+     "id": "n5",
+     "x": 0.32,
+     "y": 0.15
+    },
+    {
+     "id": "n6",
+     "x": 0.68,
+     "y": 0.52
+    },
+    {
+     "id": "n7",
+     "x": 0.32,
+     "y": 0.52
+    },
+    {
+     "id": "n8",
+     "x": 0.74,
+     "y": 0.52
+    },
+    {
+     "id": "n9",
+     "x": 0.26,
+     "y": 0.52
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n3",
+     "b": "n1",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n6",
+     "b": "n4",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n7",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n7",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n8",
+     "b": "n6",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n6",
+     "b": "n7",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s9",
+     "a": "n7",
+     "b": "n9",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 4,
+   "breath": {
+    "tempo": 1.22,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 4
+   },
+   "reward": 22
+  },
+  {
+   "id": "L092",
+   "chapterId": "C7",
+   "name": "Master's 9",
+   "indexInChapter": 8,
+   "baseShape": "crossdiamond",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.12,
+     "y": 0.5
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.12
+    },
+    {
+     "id": "n2",
+     "x": 0.88,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.88
+    },
+    {
+     "id": "n4",
+     "x": 0.5,
+     "y": 0.5
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n0",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n4",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n4",
+     "b": "n2",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n4",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.34,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 22
+  },
+  {
+   "id": "L093",
+   "chapterId": "C7",
+   "name": "Master's 10",
+   "indexInChapter": 9,
+   "baseShape": "fan",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.5,
+     "y": 0.85
+    },
+    {
+     "id": "n1",
+     "x": 0.2,
+     "y": 0.25
+    },
+    {
+     "id": "n2",
+     "x": 0.36,
+     "y": 0.18
+    },
+    {
+     "id": "n3",
+     "x": 0.5,
+     "y": 0.15
+    },
+    {
+     "id": "n4",
+     "x": 0.64,
+     "y": 0.18
+    },
+    {
+     "id": "n5",
+     "x": 0.8,
+     "y": 0.25
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n0",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n0",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n0",
+     "b": "n5",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n1",
+     "b": "n2",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s7",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s8",
+     "a": "n4",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 2,
+   "breath": {
+    "tempo": 1.34,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 2
+   },
+   "reward": 22
+  },
+  {
+   "id": "L094",
+   "chapterId": "C7",
+   "name": "Master's 11",
+   "indexInChapter": 10,
+   "baseShape": "crane",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.3,
+     "y": 0.2
+    },
+    {
+     "id": "n1",
+     "x": 0.5,
+     "y": 0.4
+    },
+    {
+     "id": "n2",
+     "x": 0.4,
+     "y": 0.55
+    },
+    {
+     "id": "n3",
+     "x": 0.6,
+     "y": 0.7
+    },
+    {
+     "id": "n4",
+     "x": 0.75,
+     "y": 0.8
+    },
+    {
+     "id": "n5",
+     "x": 0.2,
+     "y": 0.45
+    },
+    {
+     "id": "n6",
+     "x": 0.2,
+     "y": 0.6
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n1",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n2",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n3",
+     "b": "n4",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n1",
+     "b": "n5",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n2",
+     "b": "n6",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 3,
+   "breath": {
+    "tempo": 1.28,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 3
+   },
+   "reward": 22
+  },
+  {
+   "id": "L095",
+   "chapterId": "C7",
+   "name": "Master's 12",
+   "indexInChapter": 11,
+   "baseShape": "doublebox",
+   "nodes": [
+    {
+     "id": "n0",
+     "x": 0.7,
+     "y": 0.85
+    },
+    {
+     "id": "n1",
+     "x": 0.3,
+     "y": 0.85
+    },
+    {
+     "id": "n2",
+     "x": 0.7,
+     "y": 0.5
+    },
+    {
+     "id": "n3",
+     "x": 0.3,
+     "y": 0.5
+    },
+    {
+     "id": "n4",
+     "x": 0.7,
+     "y": 0.15
+    },
+    {
+     "id": "n5",
+     "x": 0.3,
+     "y": 0.15
+    }
+   ],
+   "segments": [
+    {
+     "id": "s0",
+     "a": "n0",
+     "b": "n1",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s1",
+     "a": "n0",
+     "b": "n2",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s2",
+     "a": "n1",
+     "b": "n3",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s3",
+     "a": "n2",
+     "b": "n3",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s4",
+     "a": "n2",
+     "b": "n4",
+     "color": "indigo",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s5",
+     "a": "n3",
+     "b": "n5",
+     "color": "vermilion",
+     "tiltRevealed": false,
+     "wet": false
+    },
+    {
+     "id": "s6",
+     "a": "n4",
+     "b": "n5",
+     "color": "black",
+     "tiltRevealed": false,
+     "wet": false
+    }
+   ],
+   "crossings": [],
+   "requiredStrokes": 1,
+   "breath": {
+    "tempo": 1.4,
+    "tolerance": 0.36
+   },
+   "mechanic": "twocolor",
+   "starThresholds": {
+    "calmBreathRatio": 0.74,
+    "maxBlots": 0,
+    "perfectStrokes": 1
+   },
+   "reward": 22
+  }
+ ]
+}

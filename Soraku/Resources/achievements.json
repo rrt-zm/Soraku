@@ -1,0 +1,20 @@
+{
+ "achievements": [
+  { "id": "a_first", "title": "First Breath", "detail": "Complete your first glyph.", "metric": "glyphsTraced", "target": 1 },
+  { "id": "a_ten", "title": "Warm Wrist", "detail": "Trace ten glyphs.", "metric": "glyphsTraced", "target": 10 },
+  { "id": "a_fifty", "title": "Settled Ink", "detail": "Trace fifty glyphs.", "metric": "glyphsTraced", "target": 50 },
+  { "id": "a_twohundred", "title": "Devoted Hand", "detail": "Trace two hundred glyphs.", "metric": "glyphsTraced", "target": 200 },
+  { "id": "a_chapter1", "title": "First Scroll", "detail": "Clear a full chapter.", "metric": "chaptersCleared", "target": 1 },
+  { "id": "a_chapter4", "title": "Half the Journey", "detail": "Clear four chapters.", "metric": "chaptersCleared", "target": 4 },
+  { "id": "a_chapterall", "title": "The Whole Library", "detail": "Clear every chapter.", "metric": "chaptersCleared", "target": 8 },
+  { "id": "a_stars30", "title": "Rising Stars", "detail": "Earn thirty stars.", "metric": "starsEarned", "target": 30 },
+  { "id": "a_stars150", "title": "A Sky of Stars", "detail": "Earn one hundred fifty stars.", "metric": "starsEarned", "target": 150 },
+  { "id": "a_calm25", "title": "In the Breath", "detail": "Land twenty-five calm breaths.", "metric": "calmBreaths", "target": 25 },
+  { "id": "a_perfect20", "title": "Unbroken", "detail": "Make twenty perfect strokes.", "metric": "perfectStrokes", "target": 20 },
+  { "id": "a_blot30", "title": "Clean Sheet", "detail": "Finish thirty glyphs blot-free.", "metric": "blotFreeGlyphs", "target": 30 },
+  { "id": "a_daily7", "title": "A Week of Mornings", "detail": "Complete seven daily glyphs.", "metric": "dailyCompleted", "target": 7 },
+  { "id": "a_zen20", "title": "Quiet Mind", "detail": "Spend twenty minutes in Free Ink.", "metric": "zenSeconds", "target": 1200 },
+  { "id": "a_cosmetic5", "title": "A Full Studio", "detail": "Unlock five cosmetics.", "metric": "cosmeticsUnlocked", "target": 5 },
+  { "id": "a_crossings", "title": "Bridge Walker", "detail": "Clear ten crossing glyphs.", "metric": "crossingGlyphs", "target": 10 }
+ ]
+}

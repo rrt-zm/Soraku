@@ -1,0 +1,34 @@
+{
+ "cosmetics": [
+  { "id": "ink_sumi", "type": "ink", "name": "Sumi Black", "detail": "The first ink, ground from pine soot.", "cost": 0, "isDefault": true, "swatch": "0E0D0B" },
+  { "id": "ink_vermilion", "type": "ink", "name": "Vermilion Seal", "detail": "The red of a master's stamp.", "cost": 40, "isDefault": false, "swatch": "C8442E" },
+  { "id": "ink_indigo", "type": "ink", "name": "Deep Indigo", "detail": "Ink steeped in midnight.", "cost": 60, "isDefault": false, "swatch": "2C3E63" },
+  { "id": "ink_pine", "type": "ink", "name": "Pine Soot", "detail": "A warm charcoal with brown undertones.", "cost": 80, "isDefault": false, "swatch": "2B2218" },
+  { "id": "ink_tea", "type": "ink", "name": "Tea Brown", "detail": "Steeped like an afternoon cup.", "cost": 110, "isDefault": false, "swatch": "6B4A2F" },
+  { "id": "ink_moss", "type": "ink", "name": "Moss Green", "detail": "The green of a quiet garden stone.", "cost": 140, "isDefault": false, "swatch": "3C5141" },
+  { "id": "ink_gold", "type": "ink", "name": "Gold Leaf", "detail": "Reserved for the final scroll.", "cost": 220, "isDefault": false, "swatch": "A8843C" },
+
+  { "id": "brush_hare", "type": "brush", "name": "Hare Brush", "detail": "Soft and forgiving, even taper.", "cost": 0, "isDefault": true, "tipWidth": 1.0 },
+  { "id": "brush_wolf", "type": "brush", "name": "Wolf Brush", "detail": "Crisp lines with a sharp tip.", "cost": 50, "isDefault": false, "tipWidth": 0.78 },
+  { "id": "brush_goat", "type": "brush", "name": "Goat Brush", "detail": "Broad, generous, full of ink.", "cost": 90, "isDefault": false, "tipWidth": 1.35 },
+  { "id": "brush_bamboo", "type": "brush", "name": "Bamboo Pen", "detail": "Even and architectural.", "cost": 120, "isDefault": false, "tipWidth": 0.6 },
+  { "id": "brush_fine", "type": "brush", "name": "Fine Point", "detail": "Delicate, whispering strokes.", "cost": 160, "isDefault": false, "tipWidth": 0.5 },
+
+  { "id": "paper_rice", "type": "paper", "name": "Rice Paper", "detail": "Warm, lightly grained.", "cost": 0, "isDefault": true, "tone": "F2E9D8" },
+  { "id": "paper_mulberry", "type": "paper", "name": "Mulberry", "detail": "Cream with soft fibers.", "cost": 40, "isDefault": false, "tone": "EFE4CF" },
+  { "id": "paper_kozo", "type": "paper", "name": "Kozo", "detail": "Pale and translucent.", "cost": 70, "isDefault": false, "tone": "F4EFE2" },
+  { "id": "paper_aged", "type": "paper", "name": "Aged Scroll", "detail": "Years have warmed it amber.", "cost": 120, "isDefault": false, "tone": "E4D2AE" },
+  { "id": "paper_dusk", "type": "paper", "name": "Dusk Linen", "detail": "A muted evening grey.", "cost": 150, "isDefault": false, "tone": "CFC6B6" },
+
+  { "id": "theme_dawn", "type": "theme", "name": "Dawn Scroll", "detail": "First light over the studio.", "cost": 0, "isDefault": true, "accent": "C8442E" },
+  { "id": "theme_river", "type": "theme", "name": "River Scroll", "detail": "Cool blues and flowing greys.", "cost": 60, "isDefault": false, "accent": "2C3E63" },
+  { "id": "theme_jade", "type": "theme", "name": "Jade Scroll", "detail": "Green stone and still water.", "cost": 130, "isDefault": false, "accent": "3C5141" },
+  { "id": "theme_ink", "type": "theme", "name": "Ink Night", "detail": "Charcoal calm for late hours.", "cost": 200, "isDefault": false, "accent": "A8843C" },
+
+  { "id": "sound_bell", "type": "sound", "name": "Wind Bell", "detail": "A distant furin in the breeze.", "cost": 0, "isDefault": true },
+  { "id": "sound_rain", "type": "sound", "name": "Soft Rain", "detail": "Rain on a paper window.", "cost": 50, "isDefault": false },
+  { "id": "sound_river", "type": "sound", "name": "River Stones", "detail": "Water over smooth rocks.", "cost": 90, "isDefault": false },
+  { "id": "sound_grove", "type": "sound", "name": "Bamboo Grove", "detail": "Wind through tall bamboo.", "cost": 130, "isDefault": false },
+  { "id": "sound_temple", "type": "sound", "name": "Temple Hush", "detail": "A faraway bell and silence.", "cost": 170, "isDefault": false }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "quests": [
+  { "id": "q_trace_glyphs", "title": "A Hundred Strokes", "detail": "Trace glyphs across any scrolls.", "metric": "glyphsTraced", "target": 100, "reward": 60 },
+  { "id": "q_calm_breaths", "title": "Steady Hand", "detail": "Finish strokes within the breath.", "metric": "calmBreaths", "target": 50, "reward": 50 },
+  { "id": "q_blotfree", "title": "Without a Drop", "detail": "Complete glyphs with no blots.", "metric": "blotFreeGlyphs", "target": 40, "reward": 55 },
+  { "id": "q_stars", "title": "Constellation", "detail": "Earn stars from the campaign.", "metric": "starsEarned", "target": 60, "reward": 80 },
+  { "id": "q_chapters", "title": "Unrolling the Scrolls", "detail": "Clear full chapters.", "metric": "chaptersCleared", "target": 4, "reward": 100 },
+  { "id": "q_perfect", "title": "One True Line", "detail": "Earn perfect strokes.", "metric": "perfectStrokes", "target": 30, "reward": 70 },
+  { "id": "q_daily", "title": "Every Morning", "detail": "Complete daily glyphs.", "metric": "dailyCompleted", "target": 7, "reward": 90 },
+  { "id": "q_zen", "title": "Idle Brush", "detail": "Spend time in Free Ink.", "metric": "zenSeconds", "target": 600, "reward": 45 },
+  { "id": "q_crossings", "title": "Over and Under", "detail": "Clear glyphs that hold crossings.", "metric": "crossingGlyphs", "target": 12, "reward": 75 },
+  { "id": "q_master", "title": "The Master's Hand", "detail": "Reach the final scroll.", "metric": "reachedFinalChapter", "target": 1, "reward": 150 }
+ ]
+}
